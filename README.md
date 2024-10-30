@@ -38,7 +38,6 @@ The **AlphaFold Distance Calculator** is a Python script designed to process Alp
    ```bash
    pip install -r requirements.txt
    ```
-   *Note: Ensure `requirements.txt` includes `gemmi` and `numpy`.*
 
 ## Usage
 
